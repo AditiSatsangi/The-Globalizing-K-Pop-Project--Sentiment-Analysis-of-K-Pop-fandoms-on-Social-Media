@@ -26,7 +26,6 @@ Previous studies have touched on the influence of social media on community buil
 ![image](https://github.com/user-attachments/assets/81c05bb6-c4e8-4e0c-a083-540ce1581258)
 
 
-![image](https://github.com/user-attachments/assets/c6da9478-688d-4b41-ae89-67c76f4363cd)
 
 
 ##### 	Other Evaluation Metrics for topic models
@@ -51,7 +50,6 @@ https://aditisatsangi.github.io/Globalizing-K-Pop-Project-Analysing-Social-Suppo
 ![image](https://github.com/user-attachments/assets/436fe714-8756-49c7-92a7-0270d1216977)
 
 
-![image](https://github.com/user-attachments/assets/eac3f8e9-5f69-4712-b712-f3713fee06c4)
 
 Fig 12. Results from the representation models
 
