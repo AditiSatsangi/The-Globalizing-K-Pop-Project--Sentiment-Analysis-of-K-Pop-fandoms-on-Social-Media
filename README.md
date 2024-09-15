@@ -29,19 +29,24 @@ Previous studies have touched on the influence of social media on community buil
 ![image](https://github.com/user-attachments/assets/c6da9478-688d-4b41-ae89-67c76f4363cd)
 
 
+##### 	Other Evaluation Metrics for topic models
+
 ![image](https://github.com/user-attachments/assets/efe6025f-0aff-44d1-82cf-e5cff29555c1)
 
 
-### Deployed link for the visualization is given below:
+#### Deployed link for the visualization is given below:
 
 https://aditisatsangi.github.io/Globalizing-K-Pop-Project-Analysing-Social-Support-using-Topic-Modelling-and-LLMs/#topic=0&lambda=1&term=
 
+
+##### 	pyLDAVis Visualization
 
 ![image](https://github.com/user-attachments/assets/29849a81-df5e-49de-a69b-d6882fb541d5)
 
  
                           Fig. 9 pyLDAVis Visualization for NMF model 
- 
+
+ ##### 	Representation models
 
 ![image](https://github.com/user-attachments/assets/436fe714-8756-49c7-92a7-0270d1216977)
 
