@@ -12,7 +12,7 @@ To achieve this, the study employs topic modelling techniques—such as Latent D
 Previous studies have touched on the influence of social media on community building and fan engagement, but few have delved into the specific ways social support is structured and expressed within fandoms (Smith, 2020; Lee & Park, 2019). By applying topic modelling to K-pop fandoms' social media activity, this research provides new insights into how these platforms facilitate different forms of social support, contributing to the broader understanding of online community dynamics.
 
 
-                                 ![image](https://github.com/user-attachments/assets/131cb07a-3b56-4fba-81e9-4cdf280fa618)
+![image](https://github.com/user-attachments/assets/131cb07a-3b56-4fba-81e9-4cdf280fa618)
 
  
                                  Fig 5: Research Methodology
